@@ -1,0 +1,43 @@
+/* 定义主div，宽度为800像素，居中显示 */
+.main{
+    width:800px;
+    margin: 0px auto;
+}
+
+/* 定义发表留言区域 */
+.add{
+    overflow: hidden;  /* 清除浮动带来的影响 */
+}
+.add .content{
+    width: 100%;
+}
+.add .user{
+    float: left;
+}
+.add .btn{
+    float: right;
+}
+
+/* 定义查看留言区域的样式 */
+.msg{
+    background: #ccc;
+    margin: 5px 0px 5px 0px;
+}
+.msg .info{
+    overflow: hidden;
+}
+.msg .info .user{
+    float: left;
+    color: green;
+    margin: 5px 0 0 2px;
+}
+.msg .info .time{
+    float: right;
+    color: blue;
+    margin: 5px 2px 0 0;
+}
+.msg .content{
+    width: 100%;
+    margin: 5px 0 5px 0px;
+    padding: 0 0 5px 0;
+}
