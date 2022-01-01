@@ -1,2 +1,17 @@
-# 专注助手【LIGHT】即将在此推出......
-## 预计将于2022年初推出（可能更早！）
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8">
+     <title>Main Page</title>
+</head>
+<body>
+     <span>This is main page.</span>
+     <iframe frameborder="0"
+             noresize="noresize"
+             style="position: absolute; background: transparent; width: 100%; height:100%;"
+             src="https://www.baidu.com/"
+             frameborder="0">
+     </iframe>
+
+</body>
+</html>
