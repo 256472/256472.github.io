@@ -1,3 +1,7 @@
-### 欢迎来到此信息课导航网站，本页面会添加一些近期值得关注的信息，切记遵守计算机教室守则哦~
+# Welcome!
+## 欢迎来到信息导航页
+> #### 你可以在此查看一些新闻以及常用站点，但请务必遵守课堂秩序
 ---
-<iframe src="//player.bilibili.com/player.html?aid=979312561&bvid=BV1244y1n7Mz&cid=514914650&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+# [校园新闻](http://www.hf168xq.com/xyxw.jhtml)
+# [CCTV央视新闻](https://news.cctv.com/)
+# [历史上的今天](https://www.oldday.cn/)
