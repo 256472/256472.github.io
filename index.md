@@ -1,3 +1,7 @@
+<header class="page-header" role="banner">
+      <h1 class="project-name">Welcome to GitHub Pages</h1>
+      <h2 class="project-tagline"></h2>
+<a href="https://github.com/256472/test" class="btn">test</a>
 # Welcome!
 ## 欢迎来到信息导航页
 #### 你可以在此查看一些新闻以及常用站点，但请务必遵守课堂秩序
