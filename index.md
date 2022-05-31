@@ -9,4 +9,4 @@
 # 常用站点
 ## [【校园新闻】](http://www.hf168xq.com/xyxw.jhtml) [【CCTV央视新闻】](https://news.cctv.com/) [【合肥天气预报】](http://www.weather.com.cn/weather/101220101.shtml) [【垃圾分类查询】](https://web.woobx.cn/app/garbage-sort)
 ---
-[?](https://www.bilibili.com/video/BV1GJ411x7h7) [?](https://www.bilibili.com/video/av170001)
+[?](https://www.bilibili.com/video/BV1GJ411x7h7)
