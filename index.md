@@ -7,6 +7,6 @@
 ## [【触目惊心！部分方便面老坛酸菜包竟是土坑腌制】](https://www.bilibili.com/video/BV1g44y1T7dN)
 ---
 # 常用站点
-## [【校园新闻】](http://www.hf168xq.com/xyxw.jhtml) [【CCTV央视新闻】](https://news.cctv.com/) [【合肥天气预报】](http://www.weather.com.cn/weather/101220101.shtml) [【垃圾分类查询】](https://web.woobx.cn/app/garbage-sort)
+## [【校园新闻】](http://www.hf168xq.com/xyxw.jhtml) [【CCTV央视新闻】](https://news.cctv.com/) [【合肥天气预报】](http://www.weather.com.cn/weather/101220101.shtml) [【心灵毒鸡汤】](https://ol.woobx.cn/tool/soul-words)
 ---
 [?](https://www.bilibili.com/video/BV1GJ411x7h7)
