@@ -1,5 +1,5 @@
 # Welcome!
-<a> href="https://256472.github.io/test" class="btn">test</a>
+<a href="https://256472.github.io/test" class="btn">test</a>
 ## 欢迎来到信息导航页
 #### 你可以在此查看一些新闻以及常用站点
 ---
